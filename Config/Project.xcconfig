@@ -1,0 +1,5 @@
+#include "Defaults.xcconfig"
+APP_BUNDLE_ID = com.alecchoi.sleepapp
+APP_GROUP_IDENTIFIER = group.com.alecchoi.sleepapp
+DEVELOPMENT_TEAM =
+#include? "Local.xcconfig"

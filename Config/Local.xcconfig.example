@@ -1,0 +1,6 @@
+// Copy to Local.xcconfig. Use your Apple Developer Program team, not Personal Team.
+// In Xcode, assign this same team to SleepApp and all three extensions.
+// A target-level Development Team choice overrides this configuration value.
+APP_BUNDLE_ID = com.alecchoi.sleepapp
+APP_GROUP_IDENTIFIER = group.com.alecchoi.sleepapp
+DEVELOPMENT_TEAM = YOUR_PAID_TEAM_ID
